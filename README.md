@@ -1,3 +1,4 @@
 # learnatrise
 this is a repository
-choice is your
+choice is yours
+test is best
